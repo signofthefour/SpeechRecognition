@@ -1,0 +1,1 @@
+[MIT course: Automatic Speech Recognition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/)
